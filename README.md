@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a full-stack developer with one goal in mind of continually improving myself.
+I'm currently working as a full-stack developer with strong focused on continuous self-improvement
 
 
 ## 🌐 Socials:
